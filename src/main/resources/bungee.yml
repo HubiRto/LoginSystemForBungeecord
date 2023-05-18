@@ -1,0 +1,3 @@
+name: LoginSystemLogoutPlugin
+version: '${project.version}'
+main: pl.pomoku.loginsystemlogoutplugin.LoginSystemLogoutPlugin

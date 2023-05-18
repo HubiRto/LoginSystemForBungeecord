@@ -1,0 +1,12 @@
+pl/pomoku/loginsystemlogoutplugin/entity/LoginPlayer.class
+pl/pomoku/loginsystemlogoutplugin/entity/Session$SessionBuilder.class
+pl/pomoku/loginsystemlogoutplugin/ConfigManager.class
+pl/pomoku/loginsystemlogoutplugin/repository/SessionRepository.class
+pl/pomoku/loginsystemlogoutplugin/ApplicationConfig.class
+pl/pomoku/loginsystemlogoutplugin/entity/Session.class
+pl/pomoku/loginsystemlogoutplugin/repository/LoginPlayerRepository.class
+pl/pomoku/loginsystemlogoutplugin/LoginSystemLogoutPlugin.class
+pl/pomoku/loginsystemlogoutplugin/listeners/OnDisconnect.class
+pl/pomoku/loginsystemlogoutplugin/entity/LoginPlayer$LoginPlayerBuilder.class
+pl/pomoku/loginsystemlogoutplugin/service/LoginPlayerService.class
+pl/pomoku/loginsystemlogoutplugin/service/SessionService.class
